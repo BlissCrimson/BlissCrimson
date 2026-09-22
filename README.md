@@ -58,13 +58,14 @@ Currently focused on strengthening my frontend fundamentals and exploring backen
 
 ## 📁 Current Projects
 
-| Project            | Description                                     | Status         | Tech                                  |
-| ------------------ | ----------------------------------------------- | -------------- | ------------------------------------- |
-| [Join](#)          | Join is a business Kanban Board.                | ✅ Done        | HTML, CSS, JS, Firebase               |
-| [El Pollo Loco](#) | Short description of what this project does     | ✅ Done        | HTML, CSS, JS                         |
-| [Velarium](#)      | Short description of what this project does     | 🚧 In Progress | HTML, Tailwind CSS,TS, VITE, Supabase |
-| [Pokedex](#)       | Short description of what this project does     | ✅ Done        | HTML, CSS, JS                         |
-| [Memory](#)        | Classic Memory Game with more themes and styles | 💡 Planned     | HTML, SCSS, TS, VITE                  |
+| Project                                                        | Description                                     | Status         | Tech                                  |
+| -------------------------------------------------------------- | ----------------------------------------------- | -------------- | ------------------------------------- |
+| [Join](https://github.com/BlissCrimson/join)                   | Join is a business Kanban Board.                | ✅ Done        | HTML, CSS, JS, Firebase               |
+| [El Pollo Loco](https://github.com/BlissCrimson/EL_POLLO_LOCO) | Short description of what this project does     | ✅ Done        | HTML, CSS, JS                         |
+| [Velarium](https://github.com/BlissCrimson/Velarium)           | Short description of what this project does     | 🚧 In Progress | HTML, Tailwind CSS,TS, VITE, Supabase |
+| [Pokedex](https://github.com/BlissCrimson/Pokedex)             | Short description of what this project does     | ✅ Done        | HTML, CSS, JS                         |
+| [Memory](https://github.com/BlissCrimson/Memory)               | Classic Memory Game with more themes and styles | ✅ Done        | HTML, SCSS, TS, VITE                  |
+| [PollApp](#)                                                   | Classic Memory Game with more themes and styles | 💡 Planned     | TS, Angular                           |
 
 ---
 
@@ -90,7 +91,7 @@ Currently focused on strengthening my frontend fundamentals and exploring backen
   <a href="https://www.linkedin.com/in/matthias-tausch-641234364/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:matthias.tausch@matthias-tausch.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- Add more: Twitter/X, Portfolio, etc. -->
